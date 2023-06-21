@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Death
+  - Bonus
+  - Players
+  - Spawnpoint
+  - Manager
+  - Block
+  - Problem
+  - Portal
+  - Block_Set
+  - Block_Area
+  - Problem_Area
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - LocalPlayer
+  - Player
+  - Projectile
+  - ProjectileNon
+  - Invisible
+  - Block
+  - Block_in
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

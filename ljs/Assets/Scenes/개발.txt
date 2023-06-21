@@ -1,0 +1,11 @@
+블럭 크기 = 0.2
+attach는 블럭의 중심부에 둘 것.
+하나로 묶기 전에 전부 0,0,0에 두고나서 설정하면 쉽게 가능함.
+box collider크기는 1,1,1  trigger 체크 X
+sphere collider의 radius 0.24
+
+
+게임 매니저로 엮어야 할 것들.
+
+ground는 (0,-0.6,0)에 위치, scale 은 기본 (10,1,10)
+
